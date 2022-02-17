@@ -1,16 +1,22 @@
+![ViewCount](https://views.whatilearened.today/views/github/jiahao1553/jiahao1553.svg?cache=remove)
+
 ### Hi there 👋
 
-<!--
-**jiahao1553/jiahao1553** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👦🏻 My name is JiaHao, you may call me Hao (pronounce as "how"😄)
 
-Here are some ideas to get you started:
+⚡ I'm a problem solver. I love learning and creating application or tool to help others
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎆2022 Resolution: Make myself certified with AWS Solutions Architect - Associate
+
+📫 Reach me @ [Twitter](https://twitter.com/jiahao1553)
+
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app/api?username=jiahao1553">
+    <img src="https://github-readme-stats.vercel.app/api?username=jiahao1553&show_icons=true&theme=vision-friendly-light&count_private=true" />
+  </a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jiahao1553">
+    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiahao1553&layout=compact&langs_count=8" />
+  </a>
+</p>
+
+<!-- These are my highlighted Open Source projects at GitHub: -->
