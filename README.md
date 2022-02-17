@@ -12,10 +12,10 @@
 
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=jiahao1553">
-    <img height="190px" src="https://github-readme-stats.vercel.app/api?username=jiahao1553&show_icons=true&theme=vision-friendly-light&count_private=true" />
+    <img height="190px" src="https://github-readme-stats.vercel.app/api?username=jiahao1553&show_icons=true&theme=react&count_private=true" />
   </a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jiahao1553">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiahao1553&layout=compact&langs_count=8" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiahao1553&layout=compact&langs_count=8&theme=react" />
   </a>
 </p>
 
