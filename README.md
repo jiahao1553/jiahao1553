@@ -6,7 +6,7 @@
 
 ⚡ I'm a problem solver. I love learning and creating application or tool to help others
 
-🎆2022 Resolution: Make myself certified with `AWS Certified Solutions Architect – Associate`
+🎆 2022 Resolution: Make myself certified with `AWS Certified Solutions Architect – Associate`
 
 📫 Reach me @ [Twitter](https://twitter.com/jiahao1553)
 
