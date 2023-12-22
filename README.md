@@ -6,7 +6,13 @@
 
 ⚡ I'm a problem solver. I love learning and creating application or tool to help others
 
-🎆 2023 Resolution: Make myself certified with `AWS Certified Solutions Architect – Professional`
+🎆 2024 Resolution: Make myself certified with `Professional Cloud Architect Certification by Google` and `Azure Solutions Architect Expert`
+<details>
+  <summary>🎯 Achievements</summary>
+  <li>2022 - Databricks Certified Associate Developer for Apache Spark 3.0</li>
+  <li>2023 - Confluent Certified Developer for Apache Kafka</li>
+  <li>2023 - AWS Certified Solutions Architect – Associate</li>
+</details>
 
 📫 Reach me @ [Twitter](https://twitter.com/jiahao1553)
 
