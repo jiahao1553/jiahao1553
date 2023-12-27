@@ -12,6 +12,7 @@
   <li>2022 - Databricks Certified Associate Developer for Apache Spark 3.0</li>
   <li>2023 - Confluent Certified Developer for Apache Kafka</li>
   <li>2023 - AWS Certified Solutions Architect – Associate</li>
+  <li>2023 - Microsoft Certified: Azure Data Engineer Associate</li>
 </details>
 
 📫 Reach me @ [Twitter](https://twitter.com/jiahao1553)
