@@ -13,6 +13,7 @@
   <li>2023 - Confluent Certified Developer for Apache Kafka</li>
   <li>2023 - AWS Certified Solutions Architect – Associate</li>
   <li>2023 - Microsoft Certified: Azure Data Engineer Associate</li>
+  <li>2024 - HashiCorp Certified: Terraform Associate (003)</li>
 </details>
 
 📫 Reach me @ [Twitter](https://twitter.com/jiahao1553)
